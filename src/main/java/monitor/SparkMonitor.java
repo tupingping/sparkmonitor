@@ -55,6 +55,7 @@ public class SparkMonitor {
             LogUtil.getInstance().error("failed");
         }
 
+
         LogUtil.getInstance().info("finished");
     }
 }
